@@ -20,7 +20,7 @@ Shared layout (header, navigation, footer, and the organization schema block) is
 Keep these facts as they are unless the organization decides otherwise:
 
 - Phone: `703-881-8486` (`tel:+17038818486`) everywhere a number appears.
-- Email: `info@orphanconnect.org`.
+- Email: `dcho@orphanconnect.org`.
 - Location: **Centreville, VA** only. Do not publish a street address, ZIP code, or map of a home address.
 - Donate button: `https://paypal.me/orphanconnect?country.x=US` (header and footer).
 
