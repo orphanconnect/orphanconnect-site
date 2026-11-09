@@ -4,7 +4,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-src 'none'; frame-ancestors 'none'; img-src 'self'; style-src 'self'; font-src 'self'; connect-src 'self'; form-action 'self' https://paypal.me https://www.paypal.com; script-src 'self' 'sha256-7t1un5+2lk5kLZnytBPmRqh+jMIQMZ5OFw43ajZxmFw='; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-src 'none'; frame-ancestors 'none'; img-src 'self'; style-src 'self'; font-src 'self'; connect-src 'self'; form-action 'self' https://paypal.me https://www.paypal.com; script-src 'self' 'sha256-jqc2rCSp4oJXkSkWVPc71ca8LBVx7fvB1pDc8CxIcho='; upgrade-insecure-requests
 
 /assets/*
   Cache-Control: public, max-age=31536000
