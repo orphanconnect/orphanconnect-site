@@ -1,0 +1,11 @@
+# Old Google Sites paths. Pretty URLs come from the .html files
+# (/about serves about.html). Trailing-slash variants redirect to the canonical URL.
+/home              /               301
+/home/             /               301
+/about/            /about          301
+/gallery/          /gallery        301
+/involved          /get-involved   301
+/involved/         /get-involved   301
+/contact/          /contact        301
+/get-involved/     /get-involved   301
+/favicon.ico       /favicon-32.png 200
